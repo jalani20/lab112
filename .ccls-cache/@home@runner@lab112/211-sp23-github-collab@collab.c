@@ -40,7 +40,8 @@ void ppacho2_grohr2() {
 }
 void jalani20()
 {
-  printf("yo");
+  printf("Juan Alanis");
+  printf("I learned that github allows not just the programmer but also those that can view the same repository to see the changes that are made to a program.");
 }
 void mausaf2_kperez39() {
   printf("We learned that git push uplaods local changes to a remote "
